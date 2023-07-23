@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372273587175",
+    "project_id": "advisedb-44e67",
+    "storage_bucket": "advisedb-44e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372273587175:android:6d02e2ba308628306ad342",
+        "android_client_info": {
+          "package_name": "com.example.adviseme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372273587175-i88fvd8g7v3h43hri4ljr7dloerbmd9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXDkhS17yI_lySqxxuKnsPjfTtnBycKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372273587175-i88fvd8g7v3h43hri4ljr7dloerbmd9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
